@@ -1,3 +1,5 @@
+// program to obtain the Topological ordering of vertices in a given digraph.
+
 #include<stdio.h>
 #include<time.h>
 
